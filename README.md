@@ -10,7 +10,7 @@ numpy 1.20.1
 torchvision 0.12.0
 ```
 
-## Running WaveBound
+## Running 
 
 You can download the datasets used in our experiments from the Autoformer repository (https://github.com/thuml/Autoformer).
 The dataset files should be located in "./dataset/...".
@@ -36,5 +36,4 @@ In the default setting, the dataset files and results directory are expected to 
     └── results
         ├── test_metrics
         └── valid_metrics
-```# TDWformer
-# TDWformer
+
