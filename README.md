@@ -1,7 +1,3 @@
-# WaveBound
-
-Official implementation of "WaveBound: Dynamic Error Bounds for Stable Time Series Forecasting" (NeurIPS 2022). [[arxiv]](https://arxiv.org/abs/2210.14303)
-
 ## Prerequisites
 
 We tested our project in the following environment:
